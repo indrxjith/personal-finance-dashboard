@@ -1,10 +1,4 @@
-# Here’s the **full, professional-quality `README.md` code** for your personal finance dashboard project.
 
----
-
-### ✅ `README.md` (copy this and replace your existing one)
-
-```markdown
 # 💸 Personal Finance Dashboard
 
 A simple and interactive **Streamlit-based personal finance dashboard** that helps you:
@@ -129,3 +123,4 @@ Would you like me to generate:
 
 Let me know what you need next.
 ```
+
